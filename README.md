@@ -20,10 +20,11 @@ I engineer solutions designed for global scale. Focused on backend architecture,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zonafirmann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zona's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonafirmann&theme=tokyonight&hide_border=true" alt="Zona's Streak" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zonafirmann&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonafirmann&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</p>
 
 ---
 📫 **Open for Global & Local Collaborations:** Whether it's building APIs, automating systems, or architecting scalable backends, I am available for freelance engagements via **Upwork** or **Sribu**. Let's connect!
