@@ -22,8 +22,7 @@ I engineer solutions designed for global scale. Focused on backend architecture,
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonafirmann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="195" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonafirmann&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zonafirmann&theme=tokyonight&hide_border=true" alt="Zona's GitHub Streak" />
 </div>
 ---
 📫 **Open for Global & Local Collaborations:** Whether it's building APIs, automating systems, or architecting scalable backends, I am available for freelance engagements via **Upwork** or **Sribu**. Let's connect!
